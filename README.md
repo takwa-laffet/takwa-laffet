@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;This+is+takwa;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 ---
-cybersecurite Engineering Student | Android-iOS-React Native | React js - Angular js -express js- nodejs - symfony - spring boot
+Fullstack Developer && cybersecurite Engineering Student | Android-iOS-React Native | React js - Angular js -express js- nodejs - symfony - spring boot
   
 [![](https://komarev.com/ghpvc/?username=takwa-laffet)](https://github.com/takwa-laffet)
 [![Linkedin](https://img.shields.io/badge/Linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/takwa-laffet-883239211/)
@@ -12,7 +12,7 @@ cybersecurite Engineering Student | Android-iOS-React Native | React js - Angula
 
 <div align="center">
  
- # 💻 Full Stack
+ # 💻 Full Stack && Cybersecurite Engineering Student
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,bootstrap,tailwind,php,typescript,java,spring,react,redux,angular,symfony,expressjs,nodejs,firebase,mysql,mongodb,postman)](https://skillicons.dev)
   <p align="center">
  <img width="1000" src="snake.svg" alt="snake"/>
