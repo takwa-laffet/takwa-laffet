@@ -12,7 +12,7 @@ Fullstack Developer && cybersecurite Engineering Student | Android-iOS-React Nat
 
 <div align="center">
  
- # 💻 Full Stack && Cybersecurite Engineering Student
+ # 💻 Full Stack && cybersecurity Engineering Student
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,bootstrap,tailwind,php,typescript,java,spring,react,redux,angular,symfony,expressjs,nodejs,firebase,mysql,mongodb,postman)](https://skillicons.dev)
   <p align="center">
  <img width="1000" src="snake.svg" alt="snake"/>
